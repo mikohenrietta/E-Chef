@@ -1,0 +1,30 @@
+# Build Folders
+bin/
+obj/
+
+# User-specific Files
+*.user
+*.suo
+*.vcxproj.user
+*.ncrunchsolution
+*.ncrunchproject
+
+# Visual Studio Folder
+.vs/
+
+# Logs and Temporary Files
+*.log
+*.tmp
+
+# Packages Folder
+packages/
+
+# Database-specific files
+*.mdf
+*.ldf
+
+# Others
+*.pdb
+*.cache
+*.idea/
+*.DS_Store
